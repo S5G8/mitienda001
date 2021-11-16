@@ -1,0 +1,16 @@
+{
+  "name": "mitienda001-backend",
+  "version": "1.0.0",
+  "description": "Este es el backend de mitienda001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mitienda",
+    "mintic",
+    "development"
+  ],
+  "author": "German Alirio Montenegro Revelo",
+  "license": "ISC"
+}
